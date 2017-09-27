@@ -3,7 +3,7 @@
   "version": "1.26.0",
   "main": "lib/metrics.js",
   "dependencies": {
-    "debug": "^1.0.4",
+    "debug": "^2.6.9",
     "lodash": "^2.4.1",
     "metrics": "^0.1.8"
   },
